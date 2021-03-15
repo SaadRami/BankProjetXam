@@ -1,0 +1,13 @@
+C:\Users\ACER\source\repos\ProjetBankXam\ProjetBankXam\bin\Debug\netcoreapp3.1\ProjetBankXam.exe
+C:\Users\ACER\source\repos\ProjetBankXam\ProjetBankXam\bin\Debug\netcoreapp3.1\ProjetBankXam.deps.json
+C:\Users\ACER\source\repos\ProjetBankXam\ProjetBankXam\bin\Debug\netcoreapp3.1\ProjetBankXam.runtimeconfig.json
+C:\Users\ACER\source\repos\ProjetBankXam\ProjetBankXam\bin\Debug\netcoreapp3.1\ProjetBankXam.runtimeconfig.dev.json
+C:\Users\ACER\source\repos\ProjetBankXam\ProjetBankXam\bin\Debug\netcoreapp3.1\ProjetBankXam.dll
+C:\Users\ACER\source\repos\ProjetBankXam\ProjetBankXam\bin\Debug\netcoreapp3.1\ProjetBankXam.pdb
+C:\Users\ACER\source\repos\ProjetBankXam\ProjetBankXam\obj\Debug\netcoreapp3.1\ProjetBankXam.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\ProjetBankXam\ProjetBankXam\obj\Debug\netcoreapp3.1\ProjetBankXam.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\ProjetBankXam\ProjetBankXam\obj\Debug\netcoreapp3.1\ProjetBankXam.AssemblyInfo.cs
+C:\Users\ACER\source\repos\ProjetBankXam\ProjetBankXam\obj\Debug\netcoreapp3.1\ProjetBankXam.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\ProjetBankXam\ProjetBankXam\obj\Debug\netcoreapp3.1\ProjetBankXam.dll
+C:\Users\ACER\source\repos\ProjetBankXam\ProjetBankXam\obj\Debug\netcoreapp3.1\ProjetBankXam.pdb
+C:\Users\ACER\source\repos\ProjetBankXam\ProjetBankXam\obj\Debug\netcoreapp3.1\ProjetBankXam.genruntimeconfig.cache
